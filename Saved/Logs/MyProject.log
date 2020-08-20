@@ -749,3 +749,4 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.20-07.52.05:975][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2020.08.20-07.52.05:978][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2020.08.20-07.52.06:004][  0]LogSlate: Took 0.000128 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.08.20-09.31.16:678][116]LogAudioMixer: Display: Audio Buffer Underrun detected.
