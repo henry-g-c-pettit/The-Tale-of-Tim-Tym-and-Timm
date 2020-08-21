@@ -1,5 +1,26 @@
+Skip to content
+ 
+Search…
+All gists
+Back to GitHub
+@henry-g-c-pettit 
+@JoaoBorks
+JoaoBorks
+/
+.gitignore
+Created 3 years ago • Report abuse
+1
+0
+ Code Revisions 1 Stars 1
+<script src="https://gist.github.com/JoaoBorks/86896b8273565ba8b8063899354824a7.js"></script>
+  
+[Unreal] Default gitignore file for Unreal Projects
+ .gitignore
 # Visual Studio 2015 user specific files
 .vs/
+
+# Visual Studio 2015 database file
+*.VC.db
 
 # Compiled Object files
 *.slo
@@ -72,3 +93,19 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+@henry-g-c-pettit
+Leave a comment
+
+Attach files by dragging & dropping, selecting or pasting them.
+© 2020 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
