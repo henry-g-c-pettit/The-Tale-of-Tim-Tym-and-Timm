@@ -1,8 +1,6 @@
 # MyProject
 
-This is the dev Branch!
+This is the master Branch!
 
 will try to keep uptodate with major changes
-
-this will be used as a buffer for all master commits
 
