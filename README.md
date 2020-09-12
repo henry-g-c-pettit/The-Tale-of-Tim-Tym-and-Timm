@@ -1,8 +1,6 @@
 # MyProject
 
-Developed with Unreal Engine 4
+This is the master Branch!
 
-just added the template to it
-
-also will use branches to help stuff work together better
+will try to keep uptodate with major changes
 
