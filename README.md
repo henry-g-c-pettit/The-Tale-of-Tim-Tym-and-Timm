@@ -31,10 +31,10 @@ Wardrobe open sound.
 Run the executable and press play :)
 
 # Controls
-WASD - Movement
-F - Interact
-R - Ability
-Left Mouse Button - Basic Attack
+* WASD - Movement
+* F - Interact
+* R - Ability
+* Left Mouse Button - Basic Attack
 
 # Code Documentation
 https://www.youtube.com/watch?v=VivRoxyFDPk&feature=youtu.be
