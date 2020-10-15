@@ -1,9 +1,3 @@
-# Monster AI
-Readme.md in the root of the repo – Brief description outlining the architecture of the game in terms of level structure and game loop. This will include:
-links to any libraries or asset origin.
-installation and setup instructions
-instructions on how to play/demonstrate the game.
-
 # The Tale of Tim, Tym, and Timm
 Our game is a rogue-like dungeon crawler with heavy inspiration from Realm of the Mad God.
 In our game, the player is able to select from three unique classes, The Wizard, The Knight, and The Rogue.
@@ -34,4 +28,7 @@ WASD - Movement
 F - Interact
 R - Ability
 Left Mouse Button - Basic Attack
+
+# Code Documentation
+https://www.youtube.com/watch?v=VivRoxyFDPk&feature=youtu.be
 
