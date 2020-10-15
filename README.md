@@ -36,6 +36,12 @@ Run the executable and press play :)
 * R - Ability
 * Left Mouse Button - Basic Attack
 
+# Gameplay Footage:
+https://drive.google.com/file/d/1JIXLQ1qKyKNxGXhH5whVgYWqLXWExUIq/view?usp=sharing
+
 # Code Documentation
 https://www.youtube.com/watch?v=VivRoxyFDPk&feature=youtu.be
+
+# Game Build (Executable)
+https://drive.google.com/file/d/1JIXLQ1qKyKNxGXhH5whVgYWqLXWExUIq/view?usp=sharing
 
